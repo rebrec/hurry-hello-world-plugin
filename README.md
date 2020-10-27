@@ -1,0 +1,1 @@
+# hurry-hello-world-plugin

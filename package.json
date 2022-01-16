@@ -23,6 +23,6 @@
     "np": "^6.5.0"
   },
   "dependencies": {
-    "hurry-plugin-definition": "^1.0.2"
+    "hurry-plugin-definition": "^2.0.4"
   }
 }

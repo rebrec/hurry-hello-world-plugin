@@ -324,13 +324,8 @@ function _createSuper(Derived) {
   };
 }
 
-console.log('COUCOU'); // import Plugin from 'hurry-plugin-definition'
+// import Plugin from 'hurry-plugin-definition'
 
- // const Plugin = require('../hurry-plugin-definition/dist/main.bundle.js').default
-// import {Plugin} from 'hurry-plugin-definition/Plugin'
-
-console.log('COUCOU');
-console.log(hurry_plugin_definition__WEBPACK_IMPORTED_MODULE_5__["Plugin"]);
 
 var HelloWorldPlugin =
 /*#__PURE__*/

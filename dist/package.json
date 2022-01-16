@@ -1,6 +1,6 @@
 {
   "name": "hurry-hello-world-plugin",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Hurry example plugin. Will display an hello world alert message.",
   "main": "index.js",
   "scripts": {
